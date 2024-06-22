@@ -46,3 +46,5 @@ Ensure you have Python 3.8 or higher installed. You can check your Python versio
 -   **Session State Management**: Maintain message history and model selection across interactions.
 
 
+## Persona Pattern
+Persona Pattern in prompt engineering is a technique where you define a specific character or role for the AI to adopt, guiding its responses to align with that persona's traits and knowledge.
