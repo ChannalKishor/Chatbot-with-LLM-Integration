@@ -4,7 +4,7 @@
 
 This repository demonstrates how to build an LLM (Large Language Model) powered chat application using the Olama Python library and Streamlit. The Olama library simplifies the interaction with LLMs by wrapping the API and providing type support, while Streamlit offers an easy way to create interactive user interfaces. Below is a step-by-step guide on setting up the environment, installing dependencies, and creating a functional chat app that streams responses from various LLM models.
 
-**YouTube Demo:** [Watch the demo](https://www.youtube.com/watch?v=KGzF60KERZ4&t=107s)
+**YouTube Demo:** [Watch the demo]([https://www.youtube.com/watch?v=KGzF60KERZ4&t=107s](https://youtu.be/7_YDTDs8HxM))
 
 ## Setup Instructions
 
